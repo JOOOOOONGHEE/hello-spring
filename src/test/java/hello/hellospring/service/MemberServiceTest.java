@@ -18,7 +18,7 @@ public class MemberServiceTest {
     MemberService memberService;
     MemoryMemberRepository memberRepository;
 
-    //왜 이렇게 하는거죵???,,, 이해가 안되용 ㅜ
+    //왜 이렇게 하는거죵???,,, 이해가 안되용 ㅜ?????
     @BeforeEach
     public void beforeEach() {
         memberRepository = new MemoryMemberRepository();
